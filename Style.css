@@ -1,0 +1,44 @@
+.secc-1 {
+    background-image: url(Fotos-def/titulo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.secc-2 {
+    background-color: rgb(141, 10, 10);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.secc-3 {
+    background-image: url(Fotos-def/Fondo1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    display: flex;
+}
+.secc-4 {
+    background-image: url(Fotos-def/Fondo2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.secc-5 {
+    background-image: url(Fotos-def/Fondo3.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.text1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 100px 0px 0px 30px; 
+  color: rgb(255, 255, 255); 
+  font-size: 150px;
+}
